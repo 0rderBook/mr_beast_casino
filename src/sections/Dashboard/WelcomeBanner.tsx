@@ -106,7 +106,7 @@ export function WelcomeBanner() {
         <p>Enjoy the game right here and now🎰</p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://www.pump.fun/board', '_blank')}>
+        <button onClick={() => window.open('https://www.pump.fun/8yNQoaZwAkcJSEv3mJb6zJGg8Zinr5vA8z5vmxonWNuD', '_blank')}>
           🚀 Buy $BIGA 
         </button>
         <button onClick={() => window.open('https://twitter.com/Biden_Gamble', '_blank')}>
