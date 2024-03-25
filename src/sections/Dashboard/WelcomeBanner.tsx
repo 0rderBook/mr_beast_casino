@@ -36,6 +36,10 @@ const Buttons = styled.div`
     cursor: pointer;
   }
 `
+const Welcome = styled.div`
+  /* Стили приветственного баннера */
+  background-image: url(${backgroundImage}); /* Установка вашего изображения в качестве фона */
+`;
 
 
 export function WelcomeBanner() {
