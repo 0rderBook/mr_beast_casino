@@ -110,7 +110,7 @@ export function WelcomeBanner() {
           🚀 Buy $BIGA 
         </button>
         <button onClick={() => window.open('https://twitter.com/Biden_Gamble', '_blank')}>
-          💬 X
+          ✖ Biden Gamble
         </button>
       </Buttons>
     </Welcome>
