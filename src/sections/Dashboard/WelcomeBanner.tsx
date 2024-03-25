@@ -58,17 +58,13 @@ const Welcome = styled.div`
     }
   }
 
-  background: linear-gradient(-45deg, #ffb07c, #ff3e88, #2969ff, #ef3cff, #ff3c87);
-  background-size: 300% 300%;
-  animation: welcome-fade-in .5s ease, backgroundGradient 30s ease infinite;
-  border-radius: 10px;
-  position: relative;
-  overflow: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  padding: 20px;
+  <style>
+  body {
+    background-image: url('banner1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+</style>
 
   & img {
     animation-duration: 5s;
