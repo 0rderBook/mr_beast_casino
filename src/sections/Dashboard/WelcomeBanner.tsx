@@ -102,15 +102,15 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>MR BEAST CASINO WHAT??</h1>
-        <p>Instant play, pure fairness, effortless wins. Your Web3 gaming revolution!</p>
+        <h1>MRBEAST CASINO</h1>
+        <p></p>
       </div>
       <Buttons>
         <button onClick={() => window.open('https://www.pump.fun', '_blank')}>
-          🚀 Buy $BIGA 
+          🚀 Buy $BEAST 
         </button>
         <button onClick={() => window.open('https://twitter.com/MrBeast_Casino', '_blank')}>
-          MrBeast Twitter
+         🎰MrBeast Twitter
         </button>
       </Buttons>
     </Welcome>
